@@ -1,4 +1,4 @@
-``NOTE this is just a fork of the original Project to solve a specific usecase for me. The original project can be found here: https://github.com/ottoyiu/django-cors-headers ``
+NOTE this is just a fork of the original Project to solve a specific usecase for me. The original project can be found here: https://github.com/ottoyiu/django-cors-headers 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 django-cors-headers
