@@ -31,7 +31,7 @@ Install from **pip**:
 
 .. code-block:: sh
 
-    pip install django-cors-headers
+    pip install git+https://github.com/Austyns/django-cors-headers.git
 
 and then add it to your installed apps:
 
